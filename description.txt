@@ -1,0 +1,3 @@
+Making a calculator specially for financial calculations.
+To make the process of making use of information easy and quick on the CLI.
+Will keep adding new features for advanced financial calculations as we move ahead.
